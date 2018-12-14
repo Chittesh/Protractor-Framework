@@ -1,0 +1,12 @@
+{
+    "TestCases": [
+        {
+            "TestCaseName": "addClient",
+            "Run": "Yes"
+        },
+        {
+            "TestCaseName": "addSubscriber",
+            "Run": "No"
+        }
+    ]
+}

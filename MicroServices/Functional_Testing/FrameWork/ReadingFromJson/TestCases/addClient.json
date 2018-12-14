@@ -1,0 +1,73 @@
+{
+    "Keyword": [
+        {
+            "ObjectReference": "application>LoginPage>username","Action": "SendKeys","Data1": "qa1@hear2dev.onmicrosoft.com"
+        },
+        {
+            "ObjectReference": "application>LoginPage>nextButton", "Action": "Click"
+        },
+        {
+            "ObjectReference": "application>LoginPage>password","Action": "SendKeys","Data1": "Mano2574"
+        },
+        {
+            "ObjectReference": "application>LoginPage>nextButton","Action": "Click"
+        },
+        {
+            "ObjectReference": "application>LoginPage>yes","Action": "Click"
+        },
+        {
+            "ObjectReference": "application>Hear2HomePage>addClient", "Action": "Click"
+        },       
+        {
+            "ObjectReference": "application>AddClientPage>year","Action": "SelectIndex","Data1": 112
+        },
+        {
+            "ObjectReference": "application>AddClientPage>month","Action": "SelectIndex","Data1": 1
+        },
+        {
+            "ObjectReference": "application>AddClientPage>date","Action": "SelectValue", "Data1": "1"
+        },
+        {
+            "ObjectReference": "application>AddClientPage>insurerID", "Action": "SelectIndex","Data1": 1
+        },
+        {
+            "ObjectReference": "application>AddClientPage>clientID","Action": "SendRandomValue", "Data1": 5
+        },
+        {
+            "ObjectReference": "application>AddClientPage>clientName","Action": "SendKeys","Data1": "add new client "
+        },
+        {
+            "ObjectReference": "application>AddClientPage>clientName","Action": "SendRandomValue","Data1": 5
+        },
+        {
+            "ObjectReference": "application>AddClientPage>country","Action": "SelectIndex","Data1": 4
+        },
+        {
+            "ObjectReference": "application>AddClientPage>association","Action": "SelectIndex", "Data1": 2
+        },
+        {
+            "ObjectReference": "application>AddClientPage>customerServiceLocation","Action": "SelectIndex","Data1": 4
+        },
+        {
+            "ObjectReference": "application>AddClientPage>addressLine1","Action": "SendKeys","Data1": "ahsdauiyaiiad"
+        },
+        {
+            "ObjectReference": "application>AddClientPage>zipcode","Action": "SendKeys","Data1": "78701"
+        },
+        {
+            "ObjectReference": "application>AddClientPage>city","Action": "Click"
+        },
+        {
+            "ObjectReference": "application>AddClientPage>state","Action": "Click"
+        },
+        {
+            "ObjectReference": "application>AddClientPage>phoneNumber","Action": "SendRandomValue","Data1": 10
+        },
+        {
+            "ObjectReference": "application>AddClientPage>faxNumber","Action": "SendRandomValue","Data1": 10
+        },
+        {
+            "ObjectReference": "application>AddClientPage>addClientContactsButton","Action": "Click"
+        }
+    ]
+}

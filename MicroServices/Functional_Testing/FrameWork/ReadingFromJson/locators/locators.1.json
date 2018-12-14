@@ -1,0 +1,238 @@
+{
+    "Locators": [
+       {
+            "ObjectReference": "application>LoginPage>username",
+            "XPATH": "",
+            "ID": "i0116",
+            "NAME": "",
+            "CLASSNAME": "",
+            "CSS": "",
+            "BINDING": "",
+            "MODEL": "",
+            "TAGNAME": ""
+        },
+        {
+            "ObjectReference": "application>LoginPage>nextButton",
+            "XPATH": "//input[@class=\"btn btn-block btn-primary\"]",
+            "ID": "",
+            "NAME": "",
+            "CLASSNAME": "",
+            "CSS": "",
+            "BINDING": "",
+            "MODEL": "",
+            "TAGNAME": ""
+        },
+        {
+            "ObjectReference": "application>LoginPage>password",
+            "XPATH": "",
+            "ID": "",
+            "NAME": "passwd",
+            "CLASSNAME": "",
+            "CSS": "",
+            "BINDING": "",
+            "MODEL": "",
+            "TAGNAME": ""
+        },
+        {
+            "ObjectReference": "application>LoginPage>yes",
+            "XPATH": "",
+            "ID": "idSIButton9",
+            "NAME": "",
+            "CLASSNAME": "",
+            "CSS": "",
+            "BINDING": "",
+            "MODEL": "",
+            "TAGNAME": ""
+        },
+        {
+            "ObjectReference": "application>Hear2HomePage>addClient",
+            "XPATH": "//div[@class=\"redirect-img-client\"]",
+            "ID": "",
+            "NAME": "",
+            "CLASSNAME": "",
+            "CSS": "",
+            "BINDING": "",
+            "MODEL": "",
+            "TAGNAME": ""
+        },
+        {
+            "ObjectReference": "application>AddClientPage>year",
+            "XPATH": "//select[@class=\"ui-datepicker-year\"]/option",
+            "ID": "",
+            "NAME": "",
+            "CLASSNAME": "",
+            "CSS": "",
+            "BINDING": "",
+            "MODEL": "",
+            "TAGNAME": ""
+        },
+        {
+            "ObjectReference": "application>AddClientPage>month",
+            "XPATH": "//select[@class=\"ui-datepicker-month\"]/option",
+            "ID": "",
+            "NAME": "",
+            "CLASSNAME": "",
+            "CSS": "",
+            "BINDING": "",
+            "MODEL": "",
+            "TAGNAME": ""
+        },
+        {
+            "ObjectReference": "application>AddClientPage>date",
+            "XPATH": "//table[@class=\"ui-datepicker-calendar\"]//tbody//td/a",
+            "ID": "",
+            "NAME": "",
+            "CLASSNAME": "",
+            "CSS": "",
+            "BINDING": "",
+            "MODEL": "",
+            "TAGNAME": ""
+        }
+        ,
+        {
+            "ObjectReference": "application>AddClientPage>insurerID",
+            "XPATH": "//label[.=\"Insurer ID\"]/../..//select/option",
+            "ID": "",
+            "NAME": "",
+            "CLASSNAME": "",
+            "CSS": "",
+            "BINDING": "",
+            "MODEL": "",
+            "TAGNAME": ""
+        },
+        {
+            "ObjectReference": "application>AddClientPage>clientID",
+            "XPATH": "//label[.=\"Client ID\"]/..//input",
+            "ID": "",
+            "NAME": "",
+            "CLASSNAME": "",
+            "CSS": "",
+            "BINDING": "",
+            "MODEL": "",
+            "TAGNAME": ""
+        }
+        ,
+        {
+            "ObjectReference": "application>AddClientPage>clientName",
+            "XPATH": "//label[.=\"Client Name\"]/..//input",
+            "ID": "",
+            "NAME": "",
+            "CLASSNAME": "",
+            "CSS": "",
+            "BINDING": "",
+            "MODEL": "",
+            "TAGNAME": ""
+        },
+        {
+            "ObjectReference": "application>AddClientPage>country",
+            "XPATH": "//label[.=\"County\"]/..//select/option",
+            "ID": "",
+            "NAME": "",
+            "CLASSNAME": "",
+            "CSS": "",
+            "BINDING": "",
+            "MODEL": "",
+            "TAGNAME": ""
+        },
+        {
+            "ObjectReference": "application>AddClientPage>association",
+            "XPATH": "//label[.=\"Association\"]/..//select/option",
+            "ID": "",
+            "NAME": "",
+            "CLASSNAME": "",
+            "CSS": "",
+            "BINDING": "",
+            "MODEL": "",
+            "TAGNAME": ""
+        },
+        {
+            "ObjectReference": "application>AddClientPage>customerServiceLocation",
+            "XPATH": "//label[.=\"Customer Service Location\"]/..//select/option",
+            "ID": "",
+            "NAME": "",
+            "CLASSNAME": "",
+            "CSS": "",
+            "BINDING": "",
+            "MODEL": "",
+            "TAGNAME": ""
+        }
+        ,
+        {
+            "ObjectReference": "application>AddClientPage>addressLine1",
+            "XPATH": "//label[.=\"Address Line 1\"]/../..//hear2-input-controls/input",
+            "ID": "",
+            "NAME": "",
+            "CLASSNAME": "",
+            "CSS": "",
+            "BINDING": "",
+            "MODEL": "",
+            "TAGNAME": ""
+        },
+        {
+            "ObjectReference": "application>AddClientPage>zipcode",
+            "XPATH": "//label[.=\"Zipcode\"]/..//input",
+            "ID": "",
+            "NAME": "",
+            "CLASSNAME": "",
+            "CSS": "",
+            "BINDING": "",
+            "MODEL": "",
+            "TAGNAME": ""
+        },
+        {
+            "ObjectReference": "application>AddClientPage>city",
+            "XPATH": "//label[.=\"City\"]",
+            "ID": "",
+            "NAME": "",
+            "CLASSNAME": "",
+            "CSS": "",
+            "BINDING": "",
+            "MODEL": "",
+            "TAGNAME": ""
+        },
+        {
+            "ObjectReference": "application>AddClientPage>state",
+            "XPATH": "//label[.=\"State\"]",
+            "ID": "",
+            "NAME": "",
+            "CLASSNAME": "",
+            "CSS": "",
+            "BINDING": "",
+            "MODEL": "",
+            "TAGNAME": ""
+        },
+        {
+            "ObjectReference": "application>AddClientPage>phoneNumber",
+            "XPATH": "//label[.=\"Phone\"]/..//input",
+            "ID": "",
+            "NAME": "",
+            "CLASSNAME": "",
+            "CSS": "",
+            "BINDING": "",
+            "MODEL": "",
+            "TAGNAME": ""
+        },
+        {
+            "ObjectReference": "application>AddClientPage>faxNumber",
+            "XPATH": "//label[.=\"Fax\"]/..//input",
+            "ID": "",
+            "NAME": "",
+            "CLASSNAME": "",
+            "CSS": "",
+            "BINDING": "",
+            "MODEL": "",
+            "TAGNAME": ""
+        },
+        {
+            "ObjectReference": "application>AddClientPage>addClientContactsButton",
+            "XPATH": "//button[.=\"Next: Add client contacts\"]",
+            "ID": "",
+            "NAME": "",
+            "CLASSNAME": "",
+            "CSS": "",
+            "BINDING": "",
+            "MODEL": "",
+            "TAGNAME": ""
+        }
+    ]
+}

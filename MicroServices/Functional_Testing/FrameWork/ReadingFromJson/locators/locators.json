@@ -1,0 +1,88 @@
+{
+    "Locators": [
+        {
+            "ObjectReference": "application>LoginPage>username",
+            "ID": "i0116"
+        },
+        {
+            "ObjectReference": "application>LoginPage>nextButton",
+            "XPATH": "//input[@class=\"btn btn-block btn-primary\"]"
+        },
+        {
+            "ObjectReference": "application>LoginPage>password",
+            "NAME": "passwd"
+        },
+        {
+            "ObjectReference": "application>LoginPage>yes",
+            "ID": "idSIButton9"
+        },
+        {
+            "ObjectReference": "application>Hear2HomePage>addClient",
+            "XPATH": "//div[@class=\"redirect-img-client\"]"
+        },
+        {
+            "ObjectReference": "application>AddClientPage>year",
+            "XPATH": "//select[@class=\"ui-datepicker-year\"]/option"
+        },
+        {
+            "ObjectReference": "application>AddClientPage>month",
+            "XPATH": "//select[@class=\"ui-datepicker-month\"]/option"
+        },
+        {
+            "ObjectReference": "application>AddClientPage>date",
+            "XPATH": "//table[@class=\"ui-datepicker-calendar\"]//tbody//td/a"
+        },
+        {
+            "ObjectReference": "application>AddClientPage>insurerID",
+            "XPATH": "//label[.=\"Insurer ID\"]/../..//select/option"
+        },
+        {
+            "ObjectReference": "application>AddClientPage>clientID",
+            "XPATH": "//label[.=\"Client ID\"]/..//input"
+        },
+        {
+            "ObjectReference": "application>AddClientPage>clientName",
+            "XPATH": "//label[.=\"Client Name\"]/..//input"
+        },
+        {
+            "ObjectReference": "application>AddClientPage>country",
+            "XPATH": "//label[.=\"County\"]/..//select/option"
+        },
+        {
+            "ObjectReference": "application>AddClientPage>association",
+            "XPATH": "//label[.=\"Association\"]/..//select/option"
+        },
+        {
+            "ObjectReference": "application>AddClientPage>customerServiceLocation",
+            "XPATH": "//label[.=\"Customer Service Location\"]/..//select/option"
+        },
+        {
+            "ObjectReference": "application>AddClientPage>addressLine1",
+            "XPATH": "//label[.=\"Address Line 1\"]/../..//hear2-input-controls/input"
+        },
+        {
+            "ObjectReference": "application>AddClientPage>zipcode",
+            "XPATH": "//label[.=\"Zipcode\"]/..//input"
+        },
+        {
+            "ObjectReference": "application>AddClientPage>city",
+            "XPATH": "//label[.=\"City\"]"
+        },
+        {
+            "ObjectReference": "application>AddClientPage>state",
+            "XPATH": "//label[.=\"State\"]"
+        },
+        {
+            "ObjectReference": "application>AddClientPage>phoneNumber",
+            "XPATH": "//label[.=\"Phone\"]/..//input"
+        },
+        {
+            "ObjectReference": "application>AddClientPage>faxNumber",
+            "XPATH": "//label[.=\"Fax\"]/..//input"
+        },
+        {
+            "ObjectReference": "application>AddClientPage>addClientContactsButton",
+            "XPATH": "//button[.=\"Next: Add client contacts\"]"
+        }
+    ]
+}

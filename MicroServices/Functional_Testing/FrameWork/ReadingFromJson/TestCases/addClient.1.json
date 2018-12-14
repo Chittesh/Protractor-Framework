@@ -1,0 +1,258 @@
+{
+    "Keyword": [
+        {
+            "ObjectReference": "application>LoginPage>username",
+            "ObjectType": "",
+            "Action": "SendKeys",
+            "ReturnValue": "",
+            "Data1": "qa1@hear2dev.onmicrosoft.com",
+            "Data2": "",
+            "ContinueOnError": "",
+            "CommentAstep": "",
+            "NoOfTries": 0
+        },
+        {
+            "ObjectReference": "application>LoginPage>nextButton",
+            "ObjectType": "",
+            "Action": "Click",
+            "ReturnValue": "",
+            "Data1": "",
+            "Data2": "",
+            "ContinueOnError": "",
+            "CommentAstep": "",
+            "NoOfTries": 0
+        },
+        {
+            "ObjectReference": "application>LoginPage>password",
+            "ObjectType": "",
+            "Action": "SendKeys",
+            "ReturnValue": "",
+            "Data1": "Mano2574",
+            "Data2": "",
+            "ContinueOnError": "",
+            "CommentAstep": "",
+            "NoOfTries": 0
+        },
+        {
+            "ObjectReference": "application>LoginPage>nextButton",
+            "ObjectType": "",
+            "Action": "Click",
+            "ReturnValue": "",
+            "Data1": "",
+            "Data2": "",
+            "ContinueOnError": "",
+            "CommentAstep": "",
+            "NoOfTries": 0
+        },
+        {
+            "ObjectReference": "application>LoginPage>yes",
+            "ObjectType": "",
+            "Action": "Click",
+            "ReturnValue": "",
+            "Data1": "",
+            "Data2": "",
+            "ContinueOnError": "",
+            "CommentAstep": "",
+            "NoOfTries": 0
+        },
+        {
+            "ObjectReference": "application>Hear2HomePage>addClient",
+            "ObjectType": "",
+            "Action": "Click",
+            "ReturnValue": "",
+            "Data1": "",
+            "Data2": "",
+            "ContinueOnError": "",
+            "CommentAstep": "",
+            "NoOfTries": 0
+        },
+        
+        {
+            "ObjectReference": "application>AddClientPage>year",
+            "ObjectType": "",
+            "Action": "SelectIndex",
+            "ReturnValue": "",
+            "Data1": 112,
+            "Data2": "",
+            "ContinueOnError": "",
+            "CommentAstep": "",
+            "NoOfTries": 0
+        },
+        {
+            "ObjectReference": "application>AddClientPage>month",
+            "ObjectType": "",
+            "Action": "SelectIndex",
+            "ReturnValue": "",
+            "Data1": 1,
+            "Data2": "",
+            "ContinueOnError": "",
+            "CommentAstep": "",
+            "NoOfTries": 0
+        },
+        {
+            "ObjectReference": "application>AddClientPage>date",
+            "ObjectType": "",
+            "Action": "SelectValue",
+            "ReturnValue": "",
+            "Data1": "1",
+            "Data2": "",
+            "ContinueOnError": "",
+            "CommentAstep": "",
+            "NoOfTries": 0
+        },
+        {
+            "ObjectReference": "application>AddClientPage>insurerID",
+            "ObjectType": "",
+            "Action": "SelectIndex",
+            "ReturnValue": "",
+            "Data1": 1,
+            "Data2": "",
+            "ContinueOnError": "",
+            "CommentAstep": "",
+            "NoOfTries": 0
+        },
+        {
+            "ObjectReference": "application>AddClientPage>clientID",
+            "ObjectType": "",
+            "Action": "SendRandomValue",
+            "ReturnValue": "",
+            "Data1": 5,
+            "Data2": "",
+            "ContinueOnError": "",
+            "CommentAstep": "",
+            "NoOfTries": 0
+        },
+        {
+            "ObjectReference": "application>AddClientPage>clientName",
+            "ObjectType": "",
+            "Action": "SendKeys",
+            "ReturnValue": "",
+            "Data1": "add new client ",
+            "Data2": "",
+            "ContinueOnError": "",
+            "CommentAstep": "",
+            "NoOfTries": 0
+        },
+        {
+            "ObjectReference": "application>AddClientPage>clientName",
+            "ObjectType": "",
+            "Action": "SendRandomValue",
+            "ReturnValue": "",
+            "Data1": 5,
+            "Data2": "",
+            "ContinueOnError": "",
+            "CommentAstep": "",
+            "NoOfTries": 0
+        },
+        {
+            "ObjectReference": "application>AddClientPage>country",
+            "ObjectType": "",
+            "Action": "SelectIndex",
+            "ReturnValue": "",
+            "Data1": 4,
+            "Data2": "",
+            "ContinueOnError": "",
+            "CommentAstep": "",
+            "NoOfTries": 0
+        },
+        {
+            "ObjectReference": "application>AddClientPage>association",
+            "ObjectType": "",
+            "Action": "SelectIndex",
+            "ReturnValue": "",
+            "Data1": 2,
+            "Data2": "",
+            "ContinueOnError": "",
+            "CommentAstep": "",
+            "NoOfTries": 0
+        },
+        {
+            "ObjectReference": "application>AddClientPage>customerServiceLocation",
+            "ObjectType": "",
+            "Action": "SelectIndex",
+            "ReturnValue": "",
+            "Data1": 4,
+            "Data2": "",
+            "ContinueOnError": "",
+            "CommentAstep": "",
+            "NoOfTries": 0
+        },
+        {
+            "ObjectReference": "application>AddClientPage>addressLine1",
+            "ObjectType": "",
+            "Action": "SendKeys",
+            "ReturnValue": "",
+            "Data1": "ahsdauiyaiiad",
+            "Data2": "",
+            "ContinueOnError": "",
+            "CommentAstep": "",
+            "NoOfTries": 0
+        },
+        {
+            "ObjectReference": "application>AddClientPage>zipcode",
+            "ObjectType": "",
+            "Action": "SendKeys",
+            "ReturnValue": "",
+            "Data1": "78701",
+            "Data2": "",
+            "ContinueOnError": "",
+            "CommentAstep": "",
+            "NoOfTries": 0
+        },
+        {
+            "ObjectReference": "application>AddClientPage>city",
+            "ObjectType": "",
+            "Action": "Click",
+            "ReturnValue": "",
+            "Data1": "",
+            "Data2": "",
+            "ContinueOnError": "",
+            "CommentAstep": "",
+            "NoOfTries": 0
+        },
+        {
+            "ObjectReference": "application>AddClientPage>state",
+            "ObjectType": "",
+            "Action": "Click",
+            "ReturnValue": "",
+            "Data1": "",
+            "Data2": "",
+            "ContinueOnError": "",
+            "CommentAstep": "",
+            "NoOfTries": 0
+        },
+        {
+            "ObjectReference": "application>AddClientPage>phoneNumber",
+            "ObjectType": "",
+            "Action": "SendRandomValue",
+            "ReturnValue": "",
+            "Data1": 10,
+            "Data2": "",
+            "ContinueOnError": "",
+            "CommentAstep": "",
+            "NoOfTries": 0
+        },
+        {
+            "ObjectReference": "application>AddClientPage>faxNumber",
+            "ObjectType": "",
+            "Action": "SendRandomValue",
+            "ReturnValue": "",
+            "Data1": 10,
+            "Data2": "",
+            "ContinueOnError": "",
+            "CommentAstep": "",
+            "NoOfTries": 0
+        },
+        {
+            "ObjectReference": "application>AddClientPage>addClientContactsButton",
+            "ObjectType": "",
+            "Action": "Click",
+            "ReturnValue": "",
+            "Data1": "",
+            "Data2": "",
+            "ContinueOnError": "",
+            "CommentAstep": "",
+            "NoOfTries": 0
+        }
+    ]
+}
